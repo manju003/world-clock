@@ -1,0 +1,502 @@
+[
+    {
+        "q": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
+        "a": "Lao Tzu",
+        "h": "<blockquote>&ldquo;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>"
+    },
+    {
+        "q": "Understanding that rests in what it does not understand is the finest.",
+        "a": "Zhuangzi",
+        "h": "<blockquote>&ldquo;Understanding that rests in what it does not understand is the finest.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>"
+    },
+    {
+        "q": "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.",
+        "a": "Richard Bach",
+        "h": "<blockquote>&ldquo;Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>"
+    },
+    {
+        "q": "Passion is energy. Feel the power that comes from focusing on what excites you. ",
+        "a": "Oprah Winfrey",
+        "h": "<blockquote>&ldquo;Passion is energy. Feel the power that comes from focusing on what excites you. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>"
+    },
+    {
+        "q": "You win more from losing than winning.",
+        "a": "Morgan Wootten",
+        "h": "<blockquote>&ldquo;You win more from losing than winning.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>"
+    },
+    {
+        "q": "Honor is the foundation of courage.",
+        "a": "Amelia Earhart",
+        "h": "<blockquote>&ldquo;Honor is the foundation of courage.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>"
+    },
+    {
+        "q": "There is a wisdom of the head, and there is a wisdom of the heart.",
+        "a": "Charles Dickens",
+        "h": "<blockquote>&ldquo;There is a wisdom of the head, and there is a wisdom of the heart.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>"
+    },
+    {
+        "q": "Talk does not cook rice.",
+        "a": "Chinese Proverb",
+        "h": "<blockquote>&ldquo;Talk does not cook rice.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>"
+    },
+    {
+        "q": "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.",
+        "a": "Colin Powell",
+        "h": "<blockquote>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>"
+    },
+    {
+        "q": "There are as many opinions as there are experts.",
+        "a": "Franklin D. Roosevelt",
+        "h": "<blockquote>&ldquo;There are as many opinions as there are experts.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>"
+    },
+    {
+        "q": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+        "a": "Albus Dumbledore",
+        "h": "<blockquote>&ldquo;Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>"
+    },
+    {
+        "q": "The human mind defines things in relation to one another – without light the notion of darkness would be unintelligible.",
+        "a": "Josh Waitzkin",
+        "h": "<blockquote>&ldquo;The human mind defines things in relation to one another – without light the notion of darkness would be unintelligible.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>"
+    },
+    {
+        "q": "Originality is the fine art of remembering what you hear but forgetting where you heard it. ",
+        "a": "Laurence J. Peter",
+        "h": "<blockquote>&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it. &rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>"
+    },
+    {
+        "q": "The dreamers are the saviors of the worlds.",
+        "a": "James Allen",
+        "h": "<blockquote>&ldquo;The dreamers are the saviors of the worlds.&rdquo; &mdash; <footer>James Allen</footer></blockquote>"
+    },
+    {
+        "q": "There's no next time. It's now or never.",
+        "a": "Celestine Chua",
+        "h": "<blockquote>&ldquo;There's no next time. It's now or never.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>"
+    },
+    {
+        "q": "If the plan doesn't work, change the plan, but never the goal.",
+        "a": "Unknown",
+        "h": "<blockquote>&ldquo;If the plan doesn't work, change the plan, but never the goal.&rdquo; &mdash; <footer>Unknown</footer></blockquote>"
+    },
+    {
+        "q": "The greatest weariness comes from work not done.",
+        "a": "Eric Hoffer",
+        "h": "<blockquote>&ldquo;The greatest weariness comes from work not done.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>"
+    },
+    {
+        "q": "The measure of who we are is what we do with what we have.",
+        "a": "Vince Lombardi",
+        "h": "<blockquote>&ldquo;The measure of who we are is what we do with what we have.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>"
+    },
+    {
+        "q": "Always try to be a little kinder than necessary.",
+        "a": "James Matthew Barrie",
+        "h": "<blockquote>&ldquo;Always try to be a little kinder than necessary.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>"
+    },
+    {
+        "q": "It isn't what you do, but how you do it.",
+        "a": "John Wooden",
+        "h": "<blockquote>&ldquo;It isn't what you do, but how you do it.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>"
+    },
+    {
+        "q": "Think and wonder, wonder and think.",
+        "a": "Dr. Seuss",
+        "h": "<blockquote>&ldquo;Think and wonder, wonder and think.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>"
+    },
+    {
+        "q": "Begin at once to live, and count each separate day as a separate life.  ",
+        "a": "Seneca",
+        "h": "<blockquote>&ldquo;Begin at once to live, and count each separate day as a separate life.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>"
+    },
+    {
+        "q": "Dance first. Think later. It's the natural order.",
+        "a": "Samuel Beckett",
+        "h": "<blockquote>&ldquo;Dance first. Think later. It's the natural order.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>"
+    },
+    {
+        "q": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+        "a": "Albert Einstein",
+        "h": "<blockquote>&ldquo;Life is like riding a bicycle. To keep your balance you must keep moving.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>"
+    },
+    {
+        "q": "Success is never final, failure is never fatal. It's courage that counts.",
+        "a": "John Wooden",
+        "h": "<blockquote>&ldquo;Success is never final, failure is never fatal. It's courage that counts.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>"
+    },
+    {
+        "q": "The outer conditions of a person's life will always be found to reflect their inner beliefs.",
+        "a": "James Allen",
+        "h": "<blockquote>&ldquo;The outer conditions of a person's life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>"
+    },
+    {
+        "q": "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.",
+        "a": "Steve Jobs",
+        "h": "<blockquote>&ldquo;My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>"
+    },
+    {
+        "q": "Exceptional thinkers ignore their critics and go about their business making history.",
+        "a": "John Eliot",
+        "h": "<blockquote>&ldquo;Exceptional thinkers ignore their critics and go about their business making history.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>"
+    },
+    {
+        "q": "Trusting our intuition often saves us from disaster. ",
+        "a": "Anne Wilson Schaef",
+        "h": "<blockquote>&ldquo;Trusting our intuition often saves us from disaster. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>"
+    },
+    {
+        "q": "Treat every moment as your last. It is not preparation for something else.",
+        "a": "Shunryu Suzuki",
+        "h": "<blockquote>&ldquo;Treat every moment as your last. It is not preparation for something else.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>"
+    },
+    {
+        "q": "If you correct your mind, the rest of your life will fall into place.",
+        "a": "Lao Tzu",
+        "h": "<blockquote>&ldquo;If you correct your mind, the rest of your life will fall into place.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>"
+    },
+    {
+        "q": "When reading, only read. When eating, only eat. When thinking, only think.",
+        "a": "Seungsahn",
+        "h": "<blockquote>&ldquo;When reading, only read. When eating, only eat. When thinking, only think.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>"
+    },
+    {
+        "q": "You cannot always control what goes on outside. But you can always control what goes on inside. ",
+        "a": "Wayne Dyer",
+        "h": "<blockquote>&ldquo;You cannot always control what goes on outside. But you can always control what goes on inside. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>"
+    },
+    {
+        "q": "Make no small plans for they have no power to stir the soul.",
+        "a": "Niccolo Machiavelli",
+        "h": "<blockquote>&ldquo;Make no small plans for they have no power to stir the soul.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>"
+    },
+    {
+        "q": "So long as we are being remembered, we remain alive.",
+        "a": "Carlos Ruiz Zafon",
+        "h": "<blockquote>&ldquo;So long as we are being remembered, we remain alive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>"
+    },
+    {
+        "q": "Fools talk, cowards are silent, wise men listen.",
+        "a": "Carlos Ruiz Zafon",
+        "h": "<blockquote>&ldquo;Fools talk, cowards are silent, wise men listen.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>"
+    },
+    {
+        "q": "As you think, you travel, and as you love, you attract.",
+        "a": "James Allen",
+        "h": "<blockquote>&ldquo;As you think, you travel, and as you love, you attract.&rdquo; &mdash; <footer>James Allen</footer></blockquote>"
+    },
+    {
+        "q": "Make each day your masterpiece.",
+        "a": "John Wooden",
+        "h": "<blockquote>&ldquo;Make each day your masterpiece.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>"
+    },
+    {
+        "q": "I learned the value of hard work by working hard. ",
+        "a": "Margaret Mead",
+        "h": "<blockquote>&ldquo;I learned the value of hard work by working hard. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>"
+    },
+    {
+        "q": "First learn the meaning of what you say, and then speak.",
+        "a": "Epictetus",
+        "h": "<blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>"
+    },
+    {
+        "q": "Never close your lips to those whom you have already opened your heart.",
+        "a": "Charles Dickens",
+        "h": "<blockquote>&ldquo;Never close your lips to those whom you have already opened your heart.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>"
+    },
+    {
+        "q": "The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. ",
+        "a": "Charles Swindoll",
+        "h": "<blockquote>&ldquo;The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>"
+    },
+    {
+        "q": "Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.",
+        "a": "Carlos Ruiz Zafon",
+        "h": "<blockquote>&ldquo;Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>"
+    },
+    {
+        "q": "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.",
+        "a": "Honore de Balzac",
+        "h": "<blockquote>&ldquo;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>"
+    },
+    {
+        "q": "Sadness is but a wall between two gardens.",
+        "a": "Kahlil Gibran",
+        "h": "<blockquote>&ldquo;Sadness is but a wall between two gardens.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>"
+    },
+    {
+        "q": "Every time we liberate a woman, we liberate a man. ",
+        "a": "Margaret Mead",
+        "h": "<blockquote>&ldquo;Every time we liberate a woman, we liberate a man. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>"
+    },
+    {
+        "q": "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.",
+        "a": "Henry David Thoreau",
+        "h": "<blockquote>&ldquo;Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>"
+    },
+    {
+        "q": "Unless a man is master of his soul, all other kinds of mastery amount to little.",
+        "a": "Theodore Roosevelt",
+        "h": "<blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>"
+    },
+    {
+        "q": "Make each day a new horizon.",
+        "a": "Christopher McCandless",
+        "h": "<blockquote>&ldquo;Make each day a new horizon.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>"
+    },
+    {
+        "q": "The businessman's tool is value.",
+        "a": "Ayn Rand",
+        "h": "<blockquote>&ldquo;The businessman's tool is value.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>"
+    },
+    {
+        "q": "Just do what must be done. This may not be happiness but it is greatness.",
+        "a": "George Bernard Shaw",
+        "h": "<blockquote>&ldquo;Just do what must be done. This may not be happiness but it is greatness.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>"
+    },
+    {
+        "q": "Acknowledging the good that you already have in your life is the foundation for all abundance.",
+        "a": "Eckhart Tolle",
+        "h": "<blockquote>&ldquo;Acknowledging the good that you already have in your life is the foundation for all abundance.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>"
+    },
+    {
+        "q": "When you win, say nothing, when you lose say less.",
+        "a": "Wayne Gretzky",
+        "h": "<blockquote>&ldquo;When you win, say nothing, when you lose say less.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>"
+    },
+    {
+        "q": "Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.",
+        "a": "William Faulkner",
+        "h": "<blockquote>&ldquo;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>"
+    },
+    {
+        "q": "The world only exists in your eyes. You can make it as big or as small as you want.",
+        "a": "F. Scott Fitzgerald",
+        "h": "<blockquote>&ldquo;The world only exists in your eyes. You can make it as big or as small as you want.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>"
+    },
+    {
+        "q": "There is no excuse for not trying.",
+        "a": "Barack Obama",
+        "h": "<blockquote>&ldquo;There is no excuse for not trying.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>"
+    },
+    {
+        "q": "Life is a constant series of opportunities.",
+        "a": "Ming-Dao Deng",
+        "h": "<blockquote>&ldquo;Life is a constant series of opportunities.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>"
+    },
+    {
+        "q": "If you want to make God laugh, tell him about your plans. ",
+        "a": "Woody Allen",
+        "h": "<blockquote>&ldquo;If you want to make God laugh, tell him about your plans. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>"
+    },
+    {
+        "q": "Be a master of change rather than a victim of change.",
+        "a": "Brian Tracy",
+        "h": "<blockquote>&ldquo;Be a master of change rather than a victim of change.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>"
+    },
+    {
+        "q": "To be totally at leisure for one day is to be immortal for one day. ",
+        "a": "Chinese Proverb",
+        "h": "<blockquote>&ldquo;To be totally at leisure for one day is to be immortal for one day. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>"
+    },
+    {
+        "q": "As mortals, we're ruled by conditions, not by ourselves.",
+        "a": "Bodhidharma",
+        "h": "<blockquote>&ldquo;As mortals, we're ruled by conditions, not by ourselves.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>"
+    },
+    {
+        "q": "Intense love does not measure, it just gives.",
+        "a": "Mother Teresa",
+        "h": "<blockquote>&ldquo;Intense love does not measure, it just gives.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>"
+    },
+    {
+        "q": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
+        "a": "Lao Tzu",
+        "h": "<blockquote>&ldquo;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>"
+    },
+    {
+        "q": "Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.",
+        "a": "Criss Jami",
+        "h": "<blockquote>&ldquo;Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>"
+    },
+    {
+        "q": "The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.",
+        "a": "Brian Tracy",
+        "h": "<blockquote>&ldquo;The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>"
+    },
+    {
+        "q": "It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.",
+        "a": "John Lennon",
+        "h": "<blockquote>&ldquo;It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>"
+    },
+    {
+        "q": "Insanity: doing the same thing over and over again and expecting different results.",
+        "a": "Albert Einstein",
+        "h": "<blockquote>&ldquo;Insanity: doing the same thing over and over again and expecting different results.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>"
+    },
+    {
+        "q": "By failing to prepare, you are preparing to fail.",
+        "a": "Benjamin Franklin",
+        "h": "<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>"
+    },
+    {
+        "q": "If you do not tell the truth about yourself you cannot tell it about other people.",
+        "a": "Virginia Woolf",
+        "h": "<blockquote>&ldquo;If you do not tell the truth about yourself you cannot tell it about other people.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>"
+    },
+    {
+        "q": "Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.",
+        "a": "Roy T. Bennett",
+        "h": "<blockquote>&ldquo;Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>"
+    },
+    {
+        "q": "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.",
+        "a": "Wayne Gretzky",
+        "h": "<blockquote>&ldquo;Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>"
+    },
+    {
+        "q": "Others can stop you temporarily – you are the only one who can do it permanently.",
+        "a": "Zig Ziglar",
+        "h": "<blockquote>&ldquo;Others can stop you temporarily – you are the only one who can do it permanently.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>"
+    },
+    {
+        "q": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "a": "Ralph Waldo Emerson",
+        "h": "<blockquote>&ldquo;Do not go where the path may lead, go instead where there is no path and leave a trail.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>"
+    },
+    {
+        "q": "Definiteness of purpose is the starting point of all achievement. ",
+        "a": "W. Clement Stone",
+        "h": "<blockquote>&ldquo;Definiteness of purpose is the starting point of all achievement. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>"
+    },
+    {
+        "q": "Why do you stay in prison when the door is so wide open?",
+        "a": "Rumi",
+        "h": "<blockquote>&ldquo;Why do you stay in prison when the door is so wide open?&rdquo; &mdash; <footer>Rumi</footer></blockquote>"
+    },
+    {
+        "q": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+        "a": "Lao Tzu",
+        "h": "<blockquote>&ldquo;A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>"
+    },
+    {
+        "q": "Pleasure can be supported by an illusion; but happiness rests upon truth. ",
+        "a": "Nicolas Chamfort",
+        "h": "<blockquote>&ldquo;Pleasure can be supported by an illusion; but happiness rests upon truth. &rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>"
+    },
+    {
+        "q": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "a": "Ralph Waldo Emerson",
+        "h": "<blockquote>&ldquo;What lies behind us and what lies before us are tiny matters compared to what lies within us.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>"
+    },
+    {
+        "q": "The best way to find yourself is to lose yourself in the service of others.",
+        "a": "Mahatma Gandhi",
+        "h": "<blockquote>&ldquo;The best way to find yourself is to lose yourself in the service of others.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>"
+    },
+    {
+        "q": "Allow motion to equal emotion.",
+        "a": "Elbert Hubbard",
+        "h": "<blockquote>&ldquo;Allow motion to equal emotion.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>"
+    },
+    {
+        "q": "Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. ",
+        "a": "Denis Waitley",
+        "h": "<blockquote>&ldquo;Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>"
+    },
+    {
+        "q": "Your happiness is what truly matters most. Do what you have to do in order to be happy.",
+        "a": "Brian Tracy",
+        "h": "<blockquote>&ldquo;Your happiness is what truly matters most. Do what you have to do in order to be happy.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>"
+    },
+    {
+        "q": "Be like a postage stamp. Stick to it until you get there.",
+        "a": "Bob Proctor",
+        "h": "<blockquote>&ldquo;Be like a postage stamp. Stick to it until you get there.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>"
+    },
+    {
+        "q": "Your imagination is your preview of life's coming attractions.",
+        "a": "Albert Einstein",
+        "h": "<blockquote>&ldquo;Your imagination is your preview of life's coming attractions.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>"
+    },
+    {
+        "q": "Victory is always possible for the person who refuses to stop fighting.",
+        "a": "Napoleon Hill",
+        "h": "<blockquote>&ldquo;Victory is always possible for the person who refuses to stop fighting.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>"
+    },
+    {
+        "q": "If you want something you've never had you must be willing to do something you've never done.",
+        "a": "Thomas Jefferson",
+        "h": "<blockquote>&ldquo;If you want something you've never had you must be willing to do something you've never done.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>"
+    },
+    {
+        "q": "A good teacher opens the door for you, but you must enter the room by yourself.",
+        "a": "Zen Proverb",
+        "h": "<blockquote>&ldquo;A good teacher opens the door for you, but you must enter the room by yourself.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>"
+    },
+    {
+        "q": "Confuse them with your silence and amaze them with your actions.",
+        "a": "Unknown",
+        "h": "<blockquote>&ldquo;Confuse them with your silence and amaze them with your actions.&rdquo; &mdash; <footer>Unknown</footer></blockquote>"
+    },
+    {
+        "q": "I wasn't brave, I just didn't have time to be scared.",
+        "a": "Amelia Earhart",
+        "h": "<blockquote>&ldquo;I wasn't brave, I just didn't have time to be scared.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>"
+    },
+    {
+        "q": "The only normal people are the ones you don't know very well.",
+        "a": "Alfred Adler",
+        "h": "<blockquote>&ldquo;The only normal people are the ones you don't know very well.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>"
+    },
+    {
+        "q": "Poetry is written with tears, fiction with blood, and history with invisible ink.",
+        "a": "Carlos Ruiz Zafon",
+        "h": "<blockquote>&ldquo;Poetry is written with tears, fiction with blood, and history with invisible ink.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>"
+    },
+    {
+        "q": "Life is like underwear, should be changed twice a day.  ",
+        "a": "Ray Bradbury",
+        "h": "<blockquote>&ldquo;Life is like underwear, should be changed twice a day.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>"
+    },
+    {
+        "q": "We don't stop playing because we grow old; we grow old because we stop playing.",
+        "a": "George Bernard Shaw",
+        "h": "<blockquote>&ldquo;We don't stop playing because we grow old; we grow old because we stop playing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>"
+    },
+    {
+        "q": "Keep your friends close, and your enemies closer.",
+        "a": "Sun Tzu",
+        "h": "<blockquote>&ldquo;Keep your friends close, and your enemies closer.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>"
+    },
+    {
+        "q": "The season of failure is the best time for sowing the seeds of success. ",
+        "a": "Paramahansa Yogananda",
+        "h": "<blockquote>&ldquo;The season of failure is the best time for sowing the seeds of success. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>"
+    },
+    {
+        "q": "Just because something isn't a lie does not mean that it isn't deceptive.",
+        "a": "Criss Jami",
+        "h": "<blockquote>&ldquo;Just because something isn't a lie does not mean that it isn't deceptive.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>"
+    },
+    {
+        "q": "The eye with which I see God is the same eye with which God sees me.",
+        "a": "Meister Eckhart",
+        "h": "<blockquote>&ldquo;The eye with which I see God is the same eye with which God sees me.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>"
+    },
+    {
+        "q": "The greatest test of courage on earth is to bear defeat without losing heart.",
+        "a": "Robert Greene",
+        "h": "<blockquote>&ldquo;The greatest test of courage on earth is to bear defeat without losing heart.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>"
+    },
+    {
+        "q": "Know your gifts and share them.",
+        "a": "Les Brown",
+        "h": "<blockquote>&ldquo;Know your gifts and share them.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>"
+    },
+    {
+        "q": "Force has no place where there is need of skill. ",
+        "a": "Herodotus",
+        "h": "<blockquote>&ldquo;Force has no place where there is need of skill. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>"
+    }
+]
